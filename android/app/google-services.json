@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625829856237",
+    "project_id": "goal-mate-85b8c",
+    "storage_bucket": "goal-mate-85b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625829856237:android:7592948997f8c7fb829de4",
+        "android_client_info": {
+          "package_name": "com.example.goalmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-OfWZcReA-cZQQu8EA9y4BOs1yOAXEeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
